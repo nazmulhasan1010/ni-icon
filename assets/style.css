@@ -17,8 +17,8 @@ body header .row {
   height: 100%;
 }
 body header .row .col-md-6 .logo {
-  height: 60px;
-  width: 60px;
+  height: 40px;
+  width: 40px;
 }
 body header .row .col-md-6 .input-group {
   float: right;
